@@ -1,6 +1,6 @@
 # BioFOAM
-# Author: Yurong Yang, Xueying Li, Xiaofan Yang*
-# Mailing address: Faculty of Geographical Science, Beijing Normal University
+### Author: Yurong Yang, Xueying Li, Xiaofan Yang*
+### Mailing address: Faculty of Geographical Science, Beijing Normal University
 
 The model, BioFOAM, is developed based on OpenFOAM software. This code includes three types of solvers that deal with flow and solute transport (DBS equation), Microbial-Induced Calcite Precipitation (MICP), and biofilm growth processes in porous media. 
 
